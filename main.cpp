@@ -1,7 +1,6 @@
 /*Group 25 - Room Night Light System
 
-    * Members: Samiksha Gupta and Supparna Saravanan
-
+    * Members: Samiksha Gupta 
  * This is the main control file for the Room Night Light System project.
  * It is continuously checking light intensity and updating the LED, 7-segment, and LCD accordingly.
  * It is also handling the system state toggle using a button.
